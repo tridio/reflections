@@ -1,0 +1,6 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+- o git passa a acompanhar alteraçoes. Preciso fazer isso para dizer ao git qual diretorio eu gostaria de controlar versoes.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+o diret[orio de trabalho contém todos os meus arquivos, enquanto a área de preparação contém apenas aqueles que eu desejo realizar controle de versão. Oferece o valor de permitir controlar quais arquivos eu quero controlar versão.
+
